@@ -1,0 +1,17 @@
+[
+  {
+    "plan": "Free",
+    "price": 0,
+    "features": ["Basic Access", "Limited Storage", "Community Support"]
+  },
+  {
+    "plan": "Pro",
+    "price": 9.99,
+    "features": ["All Free Features", "Unlimited Storage", "Priority Support"]
+  },
+  {
+    "plan": "Enterprise",
+    "price": 29.99,
+    "features": ["All Pro Features", "Dedicated Support", "Custom Solutions"]
+  }
+]
